@@ -14,9 +14,9 @@ def busqueda_vector (n, vector):
         else:
             print(resultado)
             break 
-        print(vector[i])
-        print(contador)
-        print("="*50)
+        #print(vector[i])
+        #print(contador)
+        #print("="*50)
 
 vector = [ 3, 5, 1, 8, 3, 2, 1, 7, 2, 4, 5, 8, 1]     
 n = 10    
